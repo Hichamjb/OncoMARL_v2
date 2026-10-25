@@ -25,6 +25,11 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+oncomarl_v2_dataset.csv/
+transitions_readable.csv/
+test_evaluation_summary/
+train_summary_full.json/
+dataset_cleaned.csv/
 
 # PyInstaller
 #   Usually these files are written by a python script from a template

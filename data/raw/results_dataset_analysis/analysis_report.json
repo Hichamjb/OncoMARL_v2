@@ -1,0 +1,28 @@
+{
+    "dataset_path": "/home/hicham/Desktop/project/Trip_Agent/OncoMARL_v2/data/raw/oncomarl_v2_dataset.csv",
+    "transitions": 120000,
+    "patients": 10000,
+    "state_dimension": 6,
+    "action_distribution": {
+        "SWITCH_PATHWAY": 30193,
+        "MULTIDISCIPLINARY_REASSESSMENT": 29995,
+        "REASSESS_CURRENT_PATHWAY": 29950,
+        "CONTINUE_CURRENT_PATHWAY": 29862
+    },
+    "reward": {
+        "mean": -0.014180402582322109,
+        "median": -0.0084016902976619,
+        "std": 0.037418045379477946,
+        "min": -0.1882890143541561,
+        "max": 0.1013960928548481
+    },
+    "episode_length": {
+        "mean": 12.0,
+        "median": 12.0,
+        "min": 12,
+        "max": 12
+    },
+    "termination_count": 10000,
+    "figures_directory": "results_dataset_analysis/figures",
+    "tables_directory": "results_dataset_analysis/tables"
+}

@@ -1,0 +1,13 @@
+metric,value
+number_of_transitions,120000.0
+number_of_patients,10000.0
+number_of_unique_actions,4.0
+number_of_terminated_transitions,10000.0
+mean_reward,-0.014180402582322109
+median_reward,-0.0084016902976619
+std_reward,0.037418045379477946
+min_reward,-0.1882890143541561
+max_reward,0.1013960928548481
+mean_episode_length,12.0
+median_episode_length,12.0
+missing_values_total,0.0

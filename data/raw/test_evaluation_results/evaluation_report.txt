@@ -1,0 +1,28 @@
+TEST EVALUATION REPORT
+==================================================
+
+Number of records: 18000
+Number of numerical metrics: 3
+
+Numerical metrics:
+
+example_index
+  Mean:   8999.500000
+  Median: 8999.500000
+  Std:    5196.296758
+  Min:    0.000000
+  Max:    17999.000000
+
+voted_action_id
+  Mean:   0.440389
+  Median: 0.000000
+  Std:    0.496448
+  Min:    0.000000
+  Max:    1.000000
+
+prediction_details_voted_action_id
+  Mean:   0.440389
+  Median: 0.000000
+  Std:    0.496448
+  Min:    0.000000
+  Max:    1.000000

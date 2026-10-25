@@ -1,0 +1,26 @@
+{
+  "seed": 42,
+  "total_patients": 10000,
+  "total_transitions": 120000,
+  "splits": {
+    "train": {
+      "patients": 7000,
+      "transitions": 84000,
+      "patient_percentage": 70.0,
+      "file": "data/processed/train_patients.csv"
+    },
+    "validation": {
+      "patients": 1500,
+      "transitions": 18000,
+      "patient_percentage": 15.0,
+      "file": "data/processed/val_patients.csv"
+    },
+    "test": {
+      "patients": 1500,
+      "transitions": 18000,
+      "patient_percentage": 15.0,
+      "file": "data/processed/test_patients.csv"
+    }
+  },
+  "leakage_check_passed": true
+}
