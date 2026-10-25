@@ -30,6 +30,9 @@ transitions_readable.csv/
 test_evaluation_summary/
 train_summary_full.json/
 dataset_cleaned.csv/
+patient_summary.csv/
+state_transition_statistics.csv/
+termination_counts.csv/
 
 # PyInstaller
 #   Usually these files are written by a python script from a template
